@@ -19,7 +19,7 @@ Ce projet démontre la mise en œuvre d'une application web Spring MVC utilisant
 
 ### Installation
 
-1. Clonez le dépôt : `git clone https://github.com/...`
+1. Clonez le dépôt : `(https://github.com/Ahmed-ajb/TP3-SPRIGN-MVC-Thylemeaf.git)`
 2. Importez le projet dans votre IDE :
    - IntelliJ IDEA : Ouvrez IntelliJ IDEA, sélectionnez "Importer un projet", et choisissez le fichier pom.xml du dépôt cloné.
    - Eclipse : Ouvrez Eclipse, allez à Fichier -> Importer -> Maven -> Projets Maven Existants, et sélectionnez le répertoire racine du dépôt cloné.
